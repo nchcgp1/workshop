@@ -1,4 +1,4 @@
-# 2025 1001 次世代定序在分子生物學上的應用
+# 2025 1001 台大 分子與細胞生物學研究所
 
 課程名稱:	次世代定序在分子生物學上的應用 Applications of NGS sequencing in Molecular Biology 
 
