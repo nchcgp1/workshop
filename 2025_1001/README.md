@@ -44,6 +44,7 @@
 
 ## dataset
 Molecular and genetic characterization of sex-linked orange coat color in the domestic cat
+
 [Curr Biol. 2025 Jun 23;35(12):2826-2836.e5](https://pubmed.ncbi.nlm.nih.gov/40378841/)
 
 Raw data: [PRJNA1227983](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP566189&o=acc_s%3Aa)
