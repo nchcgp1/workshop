@@ -36,7 +36,7 @@
 
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
-Text-based editors [nano](https://www.nano-editor.org/) [vi](https://en.wikipedia.org/wiki/Vi_(text_editor))
+Text-based editors [nano](https://www.nano-editor.org/) [vi](https://en.wikipedia.org/wiki/Vi_(text_editor)) [joe](https://joe-editor.sourceforge.io/) [Emacs](https://www.gnu.org/software/emacs/)
 
 [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
 
