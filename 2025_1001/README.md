@@ -43,7 +43,8 @@
 [Installing Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-in)
 
 ## dataset
-[Molecular and genetic characterization of sex-linked orange coat color in the domestic cat](https://pubmed.ncbi.nlm.nih.gov/40378841/)
+[Molecular and genetic characterization of sex-linked orange coat color in the domestic cat](https://pubmed.ncbi.nlm.nih.gov/40378841/) Curr Biol. 2025 Jun 23;35(12):2826-2836.e5
+
 [SRA](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP566189&o=acc_s%3Aa)
 
 
