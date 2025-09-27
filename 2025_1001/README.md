@@ -32,6 +32,8 @@
 
 ## tools
 
+[FileZilla](https://filezilla-project.org/download.php?type=client)
+
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
 [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
