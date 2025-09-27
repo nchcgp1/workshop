@@ -32,6 +32,8 @@
 
 ## tools
 
+[MobaXterm](https://mobaxterm.mobatek.net/download.html)
+
 [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
 
 [Installing Anaconda Distribution](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
