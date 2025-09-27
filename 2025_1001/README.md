@@ -48,7 +48,7 @@ Text-based editors: [nano](https://www.nano-editor.org/) [vi](https://en.wikiped
 
 管理虛擬環境: [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html)
 
-派送job制計算節點: [slurm](https://slurm.schedmd.com/documentation.html)
+派送job到計算節點: [slurm](https://slurm.schedmd.com/documentation.html)
 
 [ggplot2](https://ggplot2.tidyverse.org/)
 
