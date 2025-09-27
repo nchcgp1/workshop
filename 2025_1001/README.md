@@ -36,6 +36,8 @@
 
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
+Text-based editors [nano](https://www.nano-editor.org/) [vi](https://en.wikipedia.org/wiki/Vi_(text_editor))
+
 [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
 
 [Installing Anaconda Distribution](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
