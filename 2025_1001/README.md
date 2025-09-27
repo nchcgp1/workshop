@@ -30,9 +30,18 @@
 [兩階段驗證APP載具註冊與使用說明](https://iservice.nchc.org.tw/nchc_service/nchc_service_qa_single.php?qa_code=774)
 
 ---
+
+[miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
+
+[Installing Anaconda Distribution](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
+
 [ggplot2](https://ggplot2.tidyverse.org/)
 
 [Scanpy – Single-Cell Analysis in Python](https://scanpy.readthedocs.io/en/stable/)
 
 [Installing Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-in)
+
+---
+
+
 
