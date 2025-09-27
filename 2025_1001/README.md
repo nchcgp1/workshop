@@ -61,4 +61,6 @@ Molecular and genetic characterization of sex-linked orange coat color in the do
 
 Raw data: [PRJNA1227983](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP566189&o=acc_s%3Aa)
 
+「橘貓，你為什麼是橘貓？」集結全球貓奴之力，科學家揭開貓咪橘毛的基因秘密: [地球圖輯隊 李芸 2025-05-28](https://dq.yam.com/post/16561)
+
 
