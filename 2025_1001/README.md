@@ -36,9 +36,11 @@
 
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 
-Text-based editors [nano](https://www.nano-editor.org/) [vi](https://en.wikipedia.org/wiki/Vi_(text_editor)) [joe](https://joe-editor.sourceforge.io/) [Emacs](https://www.gnu.org/software/emacs/)
+Text-based editors: [nano](https://www.nano-editor.org/) [vi](https://en.wikipedia.org/wiki/Vi_(text_editor)) [joe](https://joe-editor.sourceforge.io/) [Emacs](https://www.gnu.org/software/emacs/)
 
 鳥哥的 Linux 私房菜: [Linux 基礎學習篇訓練教材](https://linux.vbird.org/linux_basic_train/rockylinux9/)
+
+環境變數管理工具: [Module](https://modules.sourceforge.net/)
 
 [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
 
