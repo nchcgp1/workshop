@@ -38,6 +38,8 @@
 
 Text-based editors [nano](https://www.nano-editor.org/) [vi](https://en.wikipedia.org/wiki/Vi_(text_editor)) [joe](https://joe-editor.sourceforge.io/) [Emacs](https://www.gnu.org/software/emacs/)
 
+[鳥哥的 Linux 私房菜: Linux 基礎學習篇訓練教材](https://linux.vbird.org/linux_basic_train/rockylinux9/)
+
 [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
 
 [Installing Anaconda Distribution](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
