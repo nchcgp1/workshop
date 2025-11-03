@@ -14,8 +14,11 @@
 ## 實驗設計, 檔案格式
 
 [genohub](https://genohub.com/resources/)
+
 [NGS learning resource](https://info.abmgood.com/next-generation-sequencing-ngs)
+
 [NGS101](https://ngs101.com/tutorials/)
+
 
 ## 關於GP1
 
