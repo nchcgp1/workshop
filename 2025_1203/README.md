@@ -8,7 +8,7 @@
 
 課程名稱: 生物資訊
 
-邀情人: [孫孝芳](https://imm-med.ncku.edu.tw/p/404-1173-191774.php?Lang=zh-tw) 教授
+邀請人: [孫孝芳](https://imm-med.ncku.edu.tw/p/404-1173-191774.php?Lang=zh-tw) 教授
 
 ---
 ## 關於GP1
