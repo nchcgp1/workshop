@@ -8,7 +8,7 @@
 
 課程名稱: [次世代定序在分子生物學上的應用](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=B43%20U1530&class=&dpt_code=B480&ser_no=17638&semester=114-1) 
 
-邀情人: [朱雪萍](https://ntuclsimcb.ntu.edu.tw/cp_n_174437.html) 教授
+邀請人: [朱雪萍](https://ntuclsimcb.ntu.edu.tw/cp_n_174437.html) 教授
 
 ---
 ## 關於GP1
