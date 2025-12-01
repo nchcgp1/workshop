@@ -1,5 +1,5 @@
 #!/usr/bin/sh
-#SBATCH -A ACD114107
+#SBATCH -A ACD114221
 #SBATCH -J cellranger_test-ngscourse92G
 
 ## ngscourse92G
